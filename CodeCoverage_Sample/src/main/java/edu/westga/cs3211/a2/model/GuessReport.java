@@ -10,6 +10,4 @@ public enum GuessReport {
 	TOO_LOW,
 	CORRECT,
 	GUESS_LIMIT_REACHED;
-	
-	
 }
